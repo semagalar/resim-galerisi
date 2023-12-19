@@ -1,0 +1,22 @@
+/* Add your styles here */
+ h1{
+        text-align : center;
+      }
+
+      .flex_cont{
+        margin: auto;
+        width: 630px;
+        height: 630px;
+        display: flex;
+        flex-wrap: wrap;
+
+      }
+      img{
+        width: 200px;
+        height:200px;
+        margin: 5px;
+      
+      }
+      footer{
+        text-align: center;
+      }
